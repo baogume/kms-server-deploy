@@ -30,7 +30,7 @@ wget https://raw.githubusercontent.com/baogume/kms-server-deploy/master/kms-serv
 
 ## Windows上激活
 
-### 下载(右键另存为即可) [mrxn_net_kms.cmd](https://github.com/Mr-xn/kms-server-deploy/blob/master/mrxn_net_kms.cmd)
+### 下载(右键另存为即可) [mrxn_net_kms.cmd](https://github.com/baogume/kms-server-deploy/blob/master/mrxn_net_kms.cmd)
 
 ### 下载后右键-以管理员身份运行
 ![uac_run.png](https://github.com/Mr-xn/kms-server-deploy/blob/master/image/uac_run.png)
